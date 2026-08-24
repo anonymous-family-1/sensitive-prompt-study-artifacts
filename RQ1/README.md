@@ -13,14 +13,6 @@ Manual labels for the CodeChat dataset after regex-based filtering.
 
 Manual labels for the SWE-Chat dataset (agentic coding session prompts) after regex-based filtering.
 
-- Records: `15128`
-- Format: JSON array
-- Fields:
-  - `prompt.context` — session context with numbered user prompts
-  - `judgement`
-  - `categories`
-  - `sensitive_parts`
-
 
 ### `edevgpt_prompt_sensitive_only.json`
 
